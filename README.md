@@ -1,5 +1,9 @@
 # Hi there 👋
 
+## Projects:
+
+- [https://dontaz.github.io/other/personal-page/personal-page.html](https://dontaz.github.io/other/personal-page/personal-page.html)
+
 ## Education
 
 - Kazan Federal University, Institute of Physics, Innovation Studies (Management of High-Tech Innovation Projects), Bachelor's degree
