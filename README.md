@@ -2,7 +2,7 @@
 
 ## Projects:
 
-- [https://dontaz.github.io/other/personal-page/personal-page.html](https://dontaz.github.io/other/personal-page/personal-page.html)
+- [https://dontaz.github.io/other/personal-page/personal-page.html](https://dontaz.github.io/personal-page)
 
 ## Education
 
