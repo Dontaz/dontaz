@@ -6,6 +6,7 @@
 
 ## Education
 
-- Kazan Federal University, Institute of Physics, Innovation Studies (Management of High-Tech Innovation Projects), Bachelor's degree
-- Kazan Federal University, Institute of Physics, Innovation Studies (Digital Transformation of Enterprises), Master's degree
-- Kazan Federal University, Institute of Physics, Management of Scientific Projects (R&D Specialist), Professional Retraining
+- [Kazan Federal University](https://kpfu.ru/), Institute of Physics, Innovation Studies (Management of High-Tech Innovation Projects), Bachelor's degree
+- [Kazan Federal University](https://kpfu.ru/), Institute of Physics, Innovation Studies (Digital Transformation of Enterprises), Master's degree
+- [Kazan Federal University](https://kpfu.ru/), Institute of Physics, Management of Scientific Projects (R&D Specialist), Professional Retraining
+- [Cybrary](https://www.cybrary.it/), Certificate of Continuing Education Completion «Cybersecurity Fundamentals»
