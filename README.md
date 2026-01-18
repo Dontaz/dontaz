@@ -1,8 +1,8 @@
 # Hi there 👋
 
-[![Boosty](https://img.shields.io/badge/Boosty%20-%20Boosty%20-%20Boosty?style=flat&logo=Boosty&logoColor=orange&label=%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0&labelColor=gray&color=orange&link=https%3A%2F%2Fboosty.to%2Fdontaz%2Fposts%2F57beefe2-7543-400a-984c-e041583f00a4
+[![Boosty](https://img.shields.io/badge/Boosty%20-%20Boosty%20-%20Boosty?style=flat&logo=Boosty&logoColor=orange&label=Support%20on&labelColor=gray&color=orange&link=https%3A%2F%2Fboosty.to%2Fdontaz%2Fposts%2F57beefe2-7543-400a-984c-e041583f00a4
 )](https://boosty.to/dontaz) 
-[![DonationAlerts](https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%20-%20Donation%20Alerts%20-%20DonationAlerts?style=flat&color=orange)](https://www.donationalerts.com/r/dontaz)
+[![DonationAlerts](https://img.shields.io/badge/Support%20on-%20Donation%20Alerts%20-%20DonationAlerts?style=flat&color=orange)](https://www.donationalerts.com/r/dontaz)
 
 ## Projects:
 
