@@ -8,7 +8,7 @@
 
 ## Projects / Проекты:
 
-- [https://dontaz.github.io/personal-page](https://dontaz.github.io/personal-page)
+- [https://dontaz.com/personal-page](https://dontaz.com/personal-page)
 
 ## Education / Образование:
 
